@@ -1,0 +1,23 @@
+[
+    {
+        "title": "shan",
+        "author": "shahmeer khan",
+        "year": 2024,
+        "genre": "AI",
+        "read": false
+    },
+    {
+        "title": "python",
+        "author": "shahmeer khan",
+        "year": 2025,
+        "genre": "AI",
+        "read": false
+    },
+    {
+        "title": "typescript",
+        "author": "sir Anus",
+        "year": 2024,
+        "genre": "AI",
+        "read": false
+    }
+]
